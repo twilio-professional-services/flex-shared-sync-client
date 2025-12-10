@@ -4,7 +4,7 @@ Twilio Flex Plugins allow you to customize the appearance and behavior of [Twili
 
 ## Setup
 
-Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmjs.com). We support Node >= 10.12 (and recommend the _even_ versions of Node). Afterwards, install the dependencies by running `npm install`:
+Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmjs.com). Afterwards, install the dependencies by running `npm install`:
 
 ```bash
 cd 

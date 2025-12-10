@@ -19,3 +19,7 @@ Using these three behaviors, we can access Sync via actions by performing the fo
 2. Each plugin that needs to use Sync registers an `afterSyncDocIPC` action listener to receive the updated `payload.data` value and store it in a cache
 3. To perform Sync operations, the plugin invokes the `SyncDocIPC` action and `await`s its completion
 4. The cache object is accessed to retrieve the result
+
+## Disclaimer
+
+**This software is to be considered "sample code", a Type B Deliverable, and is delivered "as-is" to the user. Twilio bears no responsibility to support the use or implementation of this software.**
